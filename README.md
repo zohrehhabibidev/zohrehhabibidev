@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Tools</h2>
+<h3 align="left">Tools</h3>
 
 ###
 
@@ -32,11 +32,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZohrehHabibi2025/ZohrehHabibi2025/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZohrehHabibi2025/ZohrehHabibi2025/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZohrehHabibi2025/ZohrehHabibi2025/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="left">Social Media</h3>
 
 ###
 
