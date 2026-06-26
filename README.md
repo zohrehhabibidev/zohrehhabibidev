@@ -1,10 +1,13 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  📚 Hi! I'm Zohreh, learning Frontend & Fullstack development at Developer Akademie.
-  I love turning ideas into interactive web apps, exploring new web tech, and sharing my coding journey here on GitHub.
-  <br><br>
-  🎯 Goals: Build. Learn. Share. Repeat.
+  👋 Hi, I'm Zohreh
+
+📚 Frontend & Fullstack Developer in training at Developer Akademie.
+
+💻 I enjoy building interactive web applications with Angular and modern web technologies.
+
+🎯 **Goal:** Build • Learn • Share • Repeat
 </p>
 
 <h2 align="left">I code with</h2>
