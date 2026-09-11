@@ -62,18 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
 </div>
 
-<h2 align="left">Projects</h2>
-
-<p align="left">
-  🍎 <strong>Mini Fruits API</strong>
-  <br><br>
-  A small Django Backend project that provides fruit data through a JSON API and connects to a JavaScript Frontend.
-  <br><br>
-  <a href="https://github.com/zohrehhabibidev/Projekt-fruit_app">Backend Repository</a>
-  <br>
-  <a href="https://github.com/zohrehhabibidev/Projekt-fruit_app-Frontend">Frontend Repository</a>
-</p>
-
 <h2 align="left">Social Media</h2>
 
 <div align="left">
