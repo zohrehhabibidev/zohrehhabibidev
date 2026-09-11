@@ -2,12 +2,14 @@
 
 <p align="left">
   👋 Hi, I'm Zohreh
-
-📚 Frontend & Fullstack Developer in training at Developer Akademie.
-
-💻 I enjoy building interactive web applications with Angular and modern web technologies.
-
-🎯 **Goal:** Build • Learn • Share • Repeat
+  <br><br>
+  📚 Frontend & Fullstack Developer in training at Developer Akademie.
+  <br><br>
+  💻 I enjoy building interactive web applications with Angular and modern web technologies.
+  <br><br>
+  🐍 Currently learning Backend Development with Python and Django.
+  <br><br>
+  🎯 <strong>Goal:</strong> Build • Learn • Share • Repeat
 </p>
 
 <h2 align="left">I code with</h2>
@@ -24,7 +26,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="48" alt="Angular" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django" />
 </div>
+
+<h2 align="left">Backend</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django" />
+</div>
+
+<p align="left">
+  🔹 REST APIs
+  <br>
+  🔹 JSON
+  <br>
+  🔹 HTTP
+  <br>
+  🔹 CORS
+  <br>
+  🔹 Django REST Framework — currently learning
+</p>
 
 <h2 align="left">Tools</h2>
 
@@ -35,6 +61,18 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
 </div>
+
+<h2 align="left">Projects</h2>
+
+<p align="left">
+  🍎 <strong>Mini Fruits API</strong>
+  <br><br>
+  A small Django Backend project that provides fruit data through a JSON API and connects to a JavaScript Frontend.
+  <br><br>
+  <a href="https://github.com/zohrehhabibidev/Projekt-fruit_app">Backend Repository</a>
+  <br>
+  <a href="https://github.com/zohrehhabibidev/Projekt-fruit_app-Frontend">Frontend Repository</a>
+</p>
 
 <h2 align="left">Social Media</h2>
 
