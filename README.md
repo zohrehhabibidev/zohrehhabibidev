@@ -94,7 +94,7 @@
   <br><br>
   <a href="https://github.com/zohrehhabibidev/kanmind_backend">💻 Source Code</a>
   |
-  <a href="https://zohreh-habibi.developerakademie.org/">🌐 Live Demo</a>
+  <a href="https://zohreh-habibi.developerakademie.org/pages/auth/login.html">🌐 Live Demo</a>
 </p>
 
 <h3 align="left">Coderr Backend</h3>
